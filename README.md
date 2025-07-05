@@ -1,5 +1,5 @@
 # Email-Spam-Detection 📧
-I built a machine learning model to detect spam emails as part of my internship at Data Zenix. The goal was to classify emails into spam or ham (non-spam) using real-world email data.
+I built a machine learning model to detect spam emails.The goal was to classify emails into spam or ham (non-spam) using real-world email data.
 # 🛠️ Tools Used
 • Python
 
@@ -19,7 +19,7 @@ I built a machine learning model to detect spam emails as part of my internship 
 🚀 Gained hands-on experience with real email data
 
 # 👤 About Me
-Aspiring Data Scientist | Interned at Data Zenix
+Aspiring Data Scientist
 
 Passionate about ML, NLP, and real-world problem solving.
 
