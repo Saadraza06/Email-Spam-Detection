@@ -25,4 +25,6 @@ Passionate about ML, NLP, and real-world problem solving.
 
 📍 Connect with me:
 
-🔗 https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile • 💻 GitHub
+🔗Linkdin : https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+
+•💻 GitHub : https://github.com/Saadraza06
