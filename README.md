@@ -7,7 +7,10 @@ I built a machine learning model to detect spam emails as part of my internship 
 • Scikit-learn
 # 🔍 Insights
 📌 Built a functional spam detection model
+
 🤖 Trained ML models: Naive Bayes
+
 🛠️ Used Python, Scikit-learn,pandas
+
 🚀 Gained hands-on experience with real email data
 
