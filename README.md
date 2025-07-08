@@ -25,6 +25,5 @@ Passionate about ML, NLP, and real-world problem solving.
 
 📍 Connect with me:
 
-🔗Linkdin : https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-raza-7a98b0286)
 
-•💻 GitHub : https://github.com/Saadraza06
